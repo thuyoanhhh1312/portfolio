@@ -97,7 +97,7 @@ const projectsVI = [
     tech: ['React', 'Redux', 'Vite', 'React Router', 'Axios', 'Node.js', 'Express', 'MySQL', 'JWT', 'Flutter'],
     tags: ['frontend', 'fullstack'],
     github: sharedContact.githubRepo,
-    demo: null,
+    demo: 'https://thuyoanh-portfolio.netlify.app/',
     summary:
       'Xây dựng cổng khách hàng/admin với bảo vệ route theo vai trò, hỗ trợ checkout đa bước và tích hợp REST API backend.',
     highlights: [
@@ -118,7 +118,7 @@ const projectsEN = [
     tech: ['React', 'Redux', 'Vite', 'React Router', 'Axios', 'Node.js', 'Express', 'MySQL', 'JWT', 'Flutter'],
     tags: ['frontend', 'fullstack'],
     github: sharedContact.githubRepo,
-    demo: null,
+    demo: 'https://thuyoanh-portfolio.netlify.app/',
     summary:
       'Built customer/admin portals with role-based guards, multi-step checkout, and REST APIs on Node.js/Express/MySQL.',
     highlights: [

@@ -39,7 +39,21 @@ npm run preview  # preview the built app
 
 ## Demo
 
-Not deployed yet
+Live: [https://thuyoanh-portfolio.netlify.app/](https://thuyoanh-portfolio.netlify.app/)
+
+## Screenshots
+
+Home (dark):
+![Home](./public/screens/home.png)
+
+Resume (dark):
+![Resume](./public/screens/resume.png)
+
+Skills (dark):
+![Skills](./public/screens/skill.png)
+
+Projects (dark):
+![Projects](./public/screens/project.png)
 
 ---
 Contact: <thuyoanhhh1312@gmail.com> · Phone: 081-683-7690 · Binh Thanh, Ho Chi Minh City
